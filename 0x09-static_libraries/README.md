@@ -1,0 +1,2 @@
+into to static librarie
+
